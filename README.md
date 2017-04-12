@@ -5,7 +5,7 @@ This exercise was a class demonstration of the properties of `this` object in a 
 
 
 #### thisPromise Launch
-![thisPromise Launch]()
+![thisPromise Launch](https://raw.githubusercontent.com/SMITHsharon/thisPromise/screens/screens/thisPromise%20on%20Launch.png)
 
 
 ### Project Specs
