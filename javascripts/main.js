@@ -106,26 +106,26 @@ $(document).ready(function(){
 
 
 // Example 5
-function foo(){
-	console.log("this", this); // obj
-	console.log("a", this.a); //2
-}
+// function foo(){
+// 	console.log("this", this); // obj
+// 	console.log("a", this.a); //2
+// }
 
 
-function doFoo(fn){ // a callback function
-	return fn();
-}
+// function doFoo(fn){ // a callback function
+// 	return fn();
+// }
 
 
-var obj2 = {
-	a: 2, 
-	foo: foo
-};]
+// var obj2 = {
+// 	a: 2, 
+// 	foo: foo
+// };]
 
 
-var a = "global";
+// var a = "global";
 
-doFoo(obj.foo);
+// doFoo(obj.foo);
 
 
 
