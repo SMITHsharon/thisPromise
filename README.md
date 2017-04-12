@@ -10,8 +10,8 @@ This exercise was a class demonstration of the properties of `this` object in a 
 
 ### Project Specs
 - Completed the `jQuery`, `Bootstrap`, `Grunt` setup
-- Explores `this` properties
-- Wrote variations of the `jQuery` `.ajax` function to get the three `json` data files, starting with the worst "pyramid of doom," and ending with the best solution
+- Explored `this` properties
+- Wrote variations of the `jQuery` `.ajax` function to get the three `json` data files, starting with the worst "pyramid of doom" solution, and ending with the best solution
 - Used `jQuery`'s `Promise` method for efficient processing of the three `json` data files
 - Wrote the contents of the data array to the DOM
 
